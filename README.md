@@ -46,9 +46,6 @@ Hi, I'm a Mobile App Developer. I'm also learning Cyber Security so that avoid h
 ## About Me
 I am a Mobile App Developer , I am interested in App Developing and tend to have a habit of trying new things related to my expertise. I also like to read both books and articles about psychology and computers, it is very interesting for me to know how people think and I wonder if I can implement it in my programs
 
-## Badges
-Idk, I just want to show these badges.
 
-[![@revanmalang's Holopin board](https://holopin.me/revanmalang)](https://holopin.io/@revanmalang)
 
 </details>
