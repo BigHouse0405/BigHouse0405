@@ -1,14 +1,18 @@
-### Hi there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi 👋, I'm Full Stack Developer.
+A passionate Full-stack developer and an enthusiast of Javascript and C#
+coding
 
-Hi, I'm a Mobile App Developer. I'm also learning Cyber Security so that avoid hacking or theft of important information.
+🔭 I’m currently working on LLMs
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
+🌱 I’m currently learning React, and Nextjs, Python Script, Django, Flask
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning PostgreSQL and Python; 
-- 💬 Ask me about anything, I am happy to help;
+👯 I’m looking to collaborate on Large Language Model and Gen AI projects
+
+💬 Ask me about HTML/CSS,JS,React/ Python and langchain
+
+⚡ Fun fact Programmer by choice, Sarcastic by birth
+
+Front-end Developer | JavaScript Enthusiast | xResearcher on Citation Network
 -
 
 **Languages and Tools:**  
