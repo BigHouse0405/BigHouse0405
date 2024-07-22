@@ -119,12 +119,3 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
-</div> 
-
-<div align="center">
-  <a href="https://app.daily.dev/cchillyard">
-    <img src="https://deterrionc.netlify.app/img/certification/deterrionc.png" width="400" alt="SETIMAGE"/>
-  </a>
-</div>
