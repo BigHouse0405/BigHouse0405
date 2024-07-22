@@ -19,11 +19,8 @@
 
 - 💬 Ask me about **React.js, Node.js and Golang**
 
-- 📫 How to reach me **deterrion.corley.work@gmail.com**
+- 📫 How to reach me **kubroma219@gmail.com**
 
-- 🆔 Linkedin Profile [https://linkedin.com/in/deterrionc](https://linkedin.com/in/deterrionc)
-
-- 📄 How to get my career [https://deterrion.netlify.com](https://deterrion.netlify.com)
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
