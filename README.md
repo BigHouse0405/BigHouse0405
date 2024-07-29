@@ -99,20 +99,3 @@
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
 </div> 
 
-
-## Certifications 🏆
-
-<div style="border-collapse: collapse; border: none;">
-
-|||
-| ------------- | ------------- |
-| <a href="https://www.freecodecamp.org/certification/deterrionc/responsive-web-design"><img src="https://deterrion.netlify.app/img/certification/fcc-reponsive-web-design.JPG" width="500" alt="SETIMAGE"/></a> | <a href="https://www.freecodecamp.org/certification/deterrionc/javascript-algorithms-and-data-structures"><img src="https://deterrion.netlify.app/img/certification/fcc-algorithm-data.JPG" width="500" alt="SETIMAGE"/></a> |
-| <a href="https://www.freecodecamp.org/certification/deterrionc/front-end-development-libraries"><img src="https://deterrion.netlify.app/img/certification/fcc-frontend.JPG" width="500" alt="SETIMAGE"/></a> | <a href="https://www.freecodecamp.org/certification/deterrionc/data-visualization"><img src="https://deterrion.netlify.app/img/certification/fcc-data-visual.JPG" width="500" alt="SETIMAGE"/></a> |
-| <a href="https://www.hackerrank.com/certificates/c8722abc129d"><img src="https://deterrionc.netlify.app/img/certification/hkr-sql.jpg" width="500" alt="SETIMAGE"/></a> | <a href="https://www.hackerrank.com/certificates/d58f71486c30"><img src="https://deterrionc.netlify.app/img/certification/hkr-problem.jpg" width="500" alt="SETIMAGE"/></a> |
-| <a href="https://www.hackerrank.com/certificates/aa10927fdcf3"><img src="https://deterrionc.netlify.app/img/certification/hkr-node.jpg" width="500" alt="SETIMAGE"/></a> | <a href="https://www.hackerrank.com/certificates/9a5159fb55ff"><img src="https://deterrionc.netlify.app/img/certification/hkr-go.jpg" width="500" alt="SETIMAGE"/></a> |
-| <a href="https://www.hackerrank.com/certificates/fa4f7ff30f3d"><img src="https://deterrionc.netlify.app/img/certification/hkr-css.jpg" width="500" alt="SETIMAGE"/></a> | <a href="https://www.hackerrank.com/certificates/bc6fcae3018a"><img src="https://deterrionc.netlify.app/img/certification/hkr-react.jpg" width="500" alt="SETIMAGE"/></a> |
-| <a href="https://www.hackerrank.com/certificates/4fa4664008e6"><img src="https://deterrionc.netlify.app/img/certification/hkr-python.jpg" width="500" alt="SETIMAGE"/></a> ||
-
-</div>
-
-
