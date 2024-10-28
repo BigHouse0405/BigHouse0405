@@ -1,5 +1,3 @@
-<h2 align="center">Hi Im Furkan</h2>
-
 ###
 
 <!-- <div align="center">
